@@ -12,4 +12,4 @@ A tiny static site for sending a digital bouquet. No build step, no backend, no 
 Import this repo, Framework Preset **Other**, no build command, default root directory. Open the deployed `/` to compose, then send her the generated link.
 
 ## Run locally
-`cd flowers && python3 -m http.server 8000`
+`python3 -m http.server 8000`
